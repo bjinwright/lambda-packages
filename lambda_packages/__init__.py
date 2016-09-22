@@ -15,6 +15,10 @@ lambda_packages = {
         'version': '3.6.0',
         'path': os.path.join(os.path.dirname(os.path.abspath(__file__)), 'lxml', 'lxml-3.6.0.tar.gz')
     },
+    'matplotlib': {
+        'version': '1.5.3',
+        'path': os.path.join(os.path.dirname(os.path.abspath(__file__)), 'matplotlib', 'matplotlib-1.5.3.tar.gz')
+    },
     'MySQL-Python': {
         'version': '1.2.5',
         'path': os.path.join(os.path.dirname(os.path.abspath(__file__)), 'MySQL-Python', 'MySQL-Python-1.2.5.tar.gz')
