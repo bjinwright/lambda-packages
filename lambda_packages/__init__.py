@@ -24,8 +24,8 @@ lambda_packages = {
         'path': os.path.join(os.path.dirname(os.path.abspath(__file__)), 'MySQL-Python', 'MySQL-Python-1.2.5.tar.gz')
     },
     'numpy': {
-        'version': '1.10.4',
-        'path': os.path.join(os.path.dirname(os.path.abspath(__file__)), 'numpy', 'numpy-1.10.4.tar.gz')
+        'version': '1.11',
+        'path': os.path.join(os.path.dirname(os.path.abspath(__file__)), 'numpy', 'numpy-1.11.tar.gz')
     },
     'Pillow':{
     	'version':'3.1.1',
