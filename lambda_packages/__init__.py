@@ -45,6 +45,11 @@ lambda_packages = {
         'path': os.path.join(os.path.dirname(os.path.abspath(__file__)),
                              'PyNaCl', 'PyNaCl-1.0.1.tar.gz')
     },
+    'scipy': {
+        'version': '0.15.1',
+        'path': os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                             'scipy','scipy-0.15.1.tar.gz')
+    },
     'cryptography': {
         'version': '1.4',
         'path': os.path.join(os.path.dirname(os.path.abspath(__file__)),
