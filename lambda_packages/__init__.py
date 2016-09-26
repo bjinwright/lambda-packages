@@ -27,6 +27,10 @@ lambda_packages = {
         'version': '1.11',
         'path': os.path.join(os.path.dirname(os.path.abspath(__file__)), 'numpy', 'numpy-1.11.tar.gz')
     },
+    'pandas':{
+    	'version':'0.18.1',
+    	'path': os.path.join(os.path.dirname(os.path.abspath(__file__)), 'pandas', 'pandas-0.18.1.tar.gz')
+    },
     'Pillow':{
     	'version':'3.1.1',
     	'path': os.path.join(os.path.dirname(os.path.abspath(__file__)), 'Pillow', 'Pillow-3.1.1.tar.gz')
